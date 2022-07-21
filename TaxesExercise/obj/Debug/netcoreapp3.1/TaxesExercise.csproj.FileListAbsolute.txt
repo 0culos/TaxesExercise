@@ -1,0 +1,14 @@
+J:\Programação C#\TaxesExercise\TaxesExercise\bin\Debug\netcoreapp3.1\TaxesExercise.exe
+J:\Programação C#\TaxesExercise\TaxesExercise\bin\Debug\netcoreapp3.1\TaxesExercise.deps.json
+J:\Programação C#\TaxesExercise\TaxesExercise\bin\Debug\netcoreapp3.1\TaxesExercise.runtimeconfig.json
+J:\Programação C#\TaxesExercise\TaxesExercise\bin\Debug\netcoreapp3.1\TaxesExercise.runtimeconfig.dev.json
+J:\Programação C#\TaxesExercise\TaxesExercise\bin\Debug\netcoreapp3.1\TaxesExercise.dll
+J:\Programação C#\TaxesExercise\TaxesExercise\bin\Debug\netcoreapp3.1\TaxesExercise.pdb
+J:\Programação C#\TaxesExercise\TaxesExercise\obj\Debug\netcoreapp3.1\TaxesExercise.csproj.AssemblyReference.cache
+J:\Programação C#\TaxesExercise\TaxesExercise\obj\Debug\netcoreapp3.1\TaxesExercise.GeneratedMSBuildEditorConfig.editorconfig
+J:\Programação C#\TaxesExercise\TaxesExercise\obj\Debug\netcoreapp3.1\TaxesExercise.AssemblyInfoInputs.cache
+J:\Programação C#\TaxesExercise\TaxesExercise\obj\Debug\netcoreapp3.1\TaxesExercise.AssemblyInfo.cs
+J:\Programação C#\TaxesExercise\TaxesExercise\obj\Debug\netcoreapp3.1\TaxesExercise.csproj.CoreCompileInputs.cache
+J:\Programação C#\TaxesExercise\TaxesExercise\obj\Debug\netcoreapp3.1\TaxesExercise.dll
+J:\Programação C#\TaxesExercise\TaxesExercise\obj\Debug\netcoreapp3.1\TaxesExercise.pdb
+J:\Programação C#\TaxesExercise\TaxesExercise\obj\Debug\netcoreapp3.1\TaxesExercise.genruntimeconfig.cache
